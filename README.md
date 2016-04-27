@@ -8,6 +8,15 @@ cordova-plugin-appinfo-sync
 - build ... iOS: `1.0.1.2`, Android: `21`(versionCode)
 - debug ... `true` or `false`
 
+## Installation
+
+```
+$ cordova plugins add cordova-plugin-appinfo-sync
+```
+
+## License
+
+MIT
 
 ## test
 

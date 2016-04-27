@@ -10,7 +10,10 @@ var AppInfoSync = function() {
   var self = this;
   channel.onCordovaReady.subscribe(function() {
     self.getAppInfo(function(info) {
-      self.identifier = info.identifier;
+      for (var key in info) {
+        var v = info[key];
+        self[key] = v;
+      }
       channel[eventName].fire();
     });
   });
