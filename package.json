@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-appinfo-sync",
+  "version": "0.1.0",
+  "description": "cordova-plugin-appinfo-sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi-jp/cordova-plugin-appinfo-sync.git"
+  },
+  "author": "phi",
+  "keywords": "cordova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phi-jp/cordova-plugin-appinfo-sync/issues"
+  },
+  "homepage": "https://github.com/phi-jp/cordova-plugin-appinfo-sync#readme"
+}
