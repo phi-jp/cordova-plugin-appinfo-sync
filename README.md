@@ -14,10 +14,6 @@ cordova-plugin-appinfo-sync
 $ cordova plugins add cordova-plugin-appinfo-sync
 ```
 
-## License
-
-MIT
-
 ## test
 
 ```
@@ -26,3 +22,17 @@ $ cordova platform add ios
 $ cordova plugin add --link ../
 $ cordova emulate ios
 ```
+
+## License
+
+MIT
+
+
+## Ref
+
+- https://github.com/whiteoctober/cordova-plugin-app-version
+  - 一番スターが多い
+- https://github.com/danmichaelo/cordova-plugin-appinfo
+- https://github.com/welldone-software/cordova-plugin-app-info
+- https://github.com/Rareloop/cordova-plugin-app-version
+  - 唯一同期取得
