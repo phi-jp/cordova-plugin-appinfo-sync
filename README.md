@@ -21,6 +21,7 @@ $ cd test
 $ cordova platform add ios
 $ cordova plugin add --link ../
 $ cordova emulate ios
+$ cordova build android
 ```
 
 ## License
@@ -34,5 +35,6 @@ MIT
   - 一番スターが多い
 - https://github.com/danmichaelo/cordova-plugin-appinfo
 - https://github.com/welldone-software/cordova-plugin-app-info
+  - debug がある
 - https://github.com/Rareloop/cordova-plugin-app-version
   - 唯一同期取得
